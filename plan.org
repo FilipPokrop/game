@@ -1,0 +1,17 @@
+* Załorzenia gry 
+** Platformówka 2D
+** Grawitacja zmenia swoją siłę
+** Działa zasada zachowania pędu
+** [ ] poziom mieści się na jednym ekranie (może ulec zmianie)
+** poziomy zapisane w języku lua
+* TO DO LIST[2000-07-14 pią]
+** Mapa
+   - [ ]wczytywanie mapy
+   - [ ] wyświetlanie mapy
+   - [ ] kolizja z obiektami
+** Obiekty
+   - [ ] wyświetlanie obiektów
+   - [ ] kolizje z innymi obiektami
+   - [ ] możlwość tworzenia nowych klas obiektów w lua 
+
+
